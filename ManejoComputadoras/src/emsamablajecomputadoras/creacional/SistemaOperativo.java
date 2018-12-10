@@ -7,7 +7,7 @@ package emsamablajecomputadoras.creacional;
 
 /**
  *
- * @author Palacios
+ * @author Yepez
  */
 public class SistemaOperativo {
     
