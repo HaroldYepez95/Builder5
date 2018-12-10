@@ -33,6 +33,8 @@ public class AsusROGEBuilder extends ComputerBuilder {
 		c.setPlaca(new Mainboard ("Strix" , "x99"));
 		
 	}
+	
+	
 
 
 }
